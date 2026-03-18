@@ -1,0 +1,83 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 0af8fe181522c8943a8adaf0b49b8c38
+  - enabled: 1
+    path: Assets/Scenes/GameIntroduction.unity
+    guid: 7d389eba4f55e104baa853e1580a0154
+  - enabled: 1
+    path: Assets/Scenes/RoleSelectionScreen.unity
+    guid: fd3108284c98ef44ea885b2a572ca1c4
+  - enabled: 1
+    path: Assets/Scenes/Phase 1/phase1-Introduction.unity
+    guid: 57df2ad21340d7b4fb94161ca379074c
+  - enabled: 1
+    path: Assets/Scenes/Phase 1/phase1-MethodsIntroduction.unity
+    guid: a3704834a1e2c7a47a5d6c6f61ad5a50
+  - enabled: 1
+    path: Assets/Scenes/Phase 1/phase1-Investments.unity
+    guid: b16d2654ea2c24a5bbcccf7d6c2d1a62
+  - enabled: 1
+    path: Assets/Scenes/Phase 1/phase1-DevelopingMethods.unity
+    guid: fa9a3194d4f85ee458a0ff15dd26833d
+  - enabled: 1
+    path: Assets/Scenes/Phase 1/phase1-PhaseEndEvent.unity
+    guid: d22aff39262a9f04f81c81991eb67389
+  - enabled: 1
+    path: Assets/Scenes/Phase 2/phase2-MethodsIntroduction.unity
+    guid: 589660e532f4dda48844d3bf50b163b2
+  - enabled: 1
+    path: Assets/Scenes/Phase 2/phase2-DevelopingMethods.unity
+    guid: cdce659d374cb6d439d2da5ab268a4d9
+  - enabled: 1
+    path: Assets/Scenes/Phase 2/phase2-Introduction.unity
+    guid: e3fe52746bca54e49a3f008952de2003
+  - enabled: 1
+    path: Assets/Scenes/Phase 2/phase2-Investments.unity
+    guid: 87c3f56dd6447734993db25836d40928
+  - enabled: 1
+    path: Assets/Scenes/Phase 2/phase2-PhaseEndEvent.unity
+    guid: 02977b7d74b3d91458ffbc231627d147
+  - enabled: 1
+    path: Assets/Scenes/Phase 3/phase3-DevelopingMethods.unity
+    guid: 580bbc6a9fd974f4c88cb322142ac85f
+  - enabled: 1
+    path: Assets/Scenes/Phase 3/phase3-Introduction.unity
+    guid: 8c2bf6b94d0e04449a0affc5172dfc19
+  - enabled: 1
+    path: Assets/Scenes/Phase 3/phase3-Investments.unity
+    guid: d8e50606ea97cee4aa95e7fae16c556c
+  - enabled: 1
+    path: Assets/Scenes/Phase 3/phase3-MethodsIntroduction.unity
+    guid: 9329293a4d7a029449b5cb3a6a6b1485
+  - enabled: 1
+    path: Assets/Scenes/Phase 3/phase3-PhaseEndEvent.unity
+    guid: d0085178b2e1d7f41818fdd08e7412fa
+  - enabled: 1
+    path: Assets/Scenes/Phase 4/phase4-DevelopingMethods.unity
+    guid: eaeef48dd31162942bb756bbb8a7f09b
+  - enabled: 1
+    path: Assets/Scenes/Phase 4/phase4-Introduction.unity
+    guid: 1d63006be1dda5e4096d1b786ab53972
+  - enabled: 1
+    path: Assets/Scenes/Phase 4/phase4-Investments.unity
+    guid: 60198fca1d33a444899bf3b5981d9b55
+  - enabled: 1
+    path: Assets/Scenes/Phase 4/phase4-MethodsIntroduction.unity
+    guid: 3fd9264f89ef8fe4385a5d2a1622768e
+  - enabled: 1
+    path: Assets/Scenes/Phase 4/phase4-PhaseEndEvent.unity
+    guid: a378ec26167c05748b5f3e405ec9bdb0
+  - enabled: 1
+    path: Assets/Scenes/PhaseEndPrompt.unity
+    guid: d69b20304b8375a4db53aae5ac68ea85
+  - enabled: 1
+    path: Assets/Scenes/GameEndReport.unity
+    guid: f8c10cf5f61ba684fb95fc9bcfee521d
+  m_configObjects: {}

@@ -1,0 +1,82 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &3386148870383238187
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 3386148870383238188}
+  - component: {fileID: 3386148870383238190}
+  - component: {fileID: 3386148870383238191}
+  m_Layer: 5
+  m_Name: InvestmentManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!224 &3386148870383238188
+RectTransform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3386148870383238187}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+  m_AnchorMin: {x: 0.5, y: 0.5}
+  m_AnchorMax: {x: 0.5, y: 0.5}
+  m_AnchoredPosition: {x: 999.2816, y: 124}
+  m_SizeDelta: {x: 100, y: 100}
+  m_Pivot: {x: 0.5, y: 0.5}
+--- !u!114 &3386148870383238190
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3386148870383238187}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e741851cba3ad425c91ecf922cc6b379, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  _data:
+    _json: '{"declarations":{"collection":{"$content":[],"$version":"A"},"$version":"A"}}'
+    _objectReferences: []
+--- !u!114 &3386148870383238191
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3386148870383238187}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ca2539a269a46140bf45bf4ccae16c8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  InvestmentScreen: {fileID: 0}
+  InvestmentConfirmationScreen: {fileID: 0}
+  TotalPlayersInvestmentScreen: {fileID: 0}
+  Method1PreviousInvestedResourcesText: {fileID: 0}
+  Method2PreviousInvestedResourcesText: {fileID: 0}
+  Method3PreviousInvestedResourcesText: {fileID: 0}
+  AvailableResourcesText: {fileID: 0}
+  Method1CurrentInvestedResourcesText: {fileID: 0}
+  Method2CurrentInvestedResourcesText: {fileID: 0}
+  Method3CurrentInvestedResourcesText: {fileID: 0}
+  Method1TotalInvestedResourcesText: {fileID: 0}
+  Method2TotalInvestedResourcesText: {fileID: 0}
+  Method3TotalInvestedResourcesText: {fileID: 0}
+  TotalInvestedResourcesText: {fileID: 0}
+  ContinuetoTotalPlayerResourcesScreenbutton: {fileID: 0}
